@@ -1,5 +1,9 @@
 # ROS 2 Pub/Sub Practice
 
+> Part of [FishFarm Robotics](https://github.com/FishFarm-robotics) — SRCP (Semantic Robotics Control Platform)
+>
+> **Contributor**: 오현석
+
 A minimal **ROS 2 (Python / rclpy)** package with a talker and a listener node —
 a learning exercise for ROS 2 package structure, publishers, subscribers, and
 timers. Kept for completeness alongside the larger robotics work.
